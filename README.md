@@ -1,5 +1,5 @@
 Git 명령어 연습하기
-
+- feature/c rebase auto merge
 - pop 테스트
 - pull 테스트
 - stash 실습...
