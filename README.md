@@ -1,4 +1,5 @@
 Git 명령어 연습하기
+- cherry-pick exer
 - rebase 1.2.
 - rebase 3.
 
