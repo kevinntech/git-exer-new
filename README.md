@@ -10,3 +10,5 @@ Git 명령어 연습하기
 - 3-way other
 
 - rebase fast-forward
+
+- master -rebase auto merge
